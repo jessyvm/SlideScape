@@ -26,7 +26,8 @@ Version Control: Git & GitHub
 
 
 # Output Preview
-[Uploading Screenshot (1).docx…]()
+[Screenshot.docx](https://github.com/user-attachments/files/22759098/Screenshot.docx)
+
 
 Above are screenshots of the slider in action (stored in the /screenshots folder):
 
